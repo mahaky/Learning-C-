@@ -19,6 +19,9 @@ namespace Collections
                 "Saturday",
                 "Sunday"
             };
+            
+            //going through array - Enumerate or Iterate
+            
             foreach(string day in daysofweek)
             {
                 Console.WriteLine(day);
