@@ -32,7 +32,7 @@ namespace Collection
             string daytoshow = daysofweek[iday-1];*/
             
                 string daytoshow = daysofweek[iday];
-                Console.WriteLine($"The day is {daytoshow});
+                Console.WriteLine($"The day is {daytoshow}");
                 
             //Replacing in array
             
