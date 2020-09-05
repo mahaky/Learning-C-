@@ -24,7 +24,7 @@ namespace Collection
             
             //Arrays start with zero index
             
-                Console.WriteLine("Which day you want to display);
+                Console.WriteLine("Which day you want to display");
                 Console.WriteLine("Monday=1 and so on");
                 int iday = int.Parse(Console.ReadLine());
                 
